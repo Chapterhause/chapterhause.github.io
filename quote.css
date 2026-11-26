@@ -1,0 +1,35 @@
+body {
+	color: #FBF1C7;
+	background-color: #32302F;
+	font-family: "JetBrains Mono", monospace;
+}
+
+.page {
+	width: 960px;
+	margin: auto;
+	height: 100%;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+  background-color: #3C3836;
+	border-radius: 10px;
+}
+
+h1 {
+  color: #FBF1C7;
+}
+
+p {
+	margin: 10px;
+	justify: center;
+	font-size: 18
+}
+
+a:link {
+	color: #D79921;
+}
+
+a:visited {
+	color: #BDAE93;
+}
+
