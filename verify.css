@@ -1,0 +1,27 @@
+body {	
+	font-size: 17
+	color: #EBDBB2;
+	background-color: #32302F;
+	font-family: "JetBrains Mono", monospace;	
+}
+
+.verify {
+	margin: auto;
+	width: 960px;	
+	display: flex;
+	align-items: center;
+	justify-content: center;	
+	height: 100px;
+	color: #EBDBB2;
+	background-color: #504945;
+	border-radius: 10px;
+}
+
+button {
+	background-color: #504945;
+	color: #EBDBB2;
+	border: 3px solid #CC241D;
+	width: 20px;
+	height: 20px;	
+	border-radius: 5px;
+}
