@@ -1,14 +1,21 @@
+@font-face {
+    font-family: monofur;
+    src: url(monofur.ttf);
+}
+
 body {
 	color: #FBF1C7;
 	background-color: #32302F;
-	font-family: "JetBrains Mono", monospace;
+	font-family: monofur;
 }
 
 .page {
 	width: 960px;
 	margin: auto;
 	height: 100%;
-	align-items: center;
+	align-items: center;	
+	text-align: justify;
+	text-justify: inter-word;
 	display: flex;
 	flex-direction: column;
   background-color: #3C3836;
